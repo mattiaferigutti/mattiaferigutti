@@ -7,7 +7,7 @@
 - 🎨 &nbsp; I’m learning User Experience (UX) Design
 - ✍️ &nbsp; Hiring? Find more about my career and experience [here](https://www.linkedin.com/in/mattia-ferigutti/)
 - ✈️ &nbsp; I'm originally from Belluno 🗻 but I've worked 1 year in Australia, where should I go next?
-- ⚡ &nbsp; Fun fact: Pizza 🍕 and Coffè ☕ is the secret weapon for any Italian developers
+- ⚡ &nbsp; Fun fact: Pizza 🍕 and Coffè ☕ are the secret weapons for any Italian developers
 
 ### 🖥️ Github Stats
 
