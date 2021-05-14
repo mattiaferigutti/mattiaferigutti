@@ -2,9 +2,8 @@
 
 - 💻 &nbsp; I'm an Android Engineer
 - 🎓 &nbsp; Student at the Apple Developer Academy in Naples
-- 🌱 &nbsp; I’m currently learning Python and Product Management
 - 🗺️ &nbsp; I’m working remotely from Belluno, Italy
-- 🎨 &nbsp; I’m learning User Experience (UX) Design
+- 🎨 &nbsp; I’m learning User Experience (UX) Design and Product Management
 - ✍️ &nbsp; Hiring? Find more about my career and experience [here](https://www.linkedin.com/in/mattia-ferigutti/)
 - ✈️ &nbsp; I'm originally from Belluno 🗻 but I've worked 1 year in Australia, where should I go next?
 - ⚡ &nbsp; Fun fact: Pizza 🍕 and Coffè ☕ are the secret weapons for any Italian developers
