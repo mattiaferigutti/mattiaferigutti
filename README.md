@@ -1,4 +1,4 @@
-### Hello everyone 👋, my name is Mattia and I'm 21 years old (Yep! I can drink beer)
+### Hello everyone 👋, my name is Mattia and I'm 22 years old
 
 - 💻 &nbsp; I'm an Android Engineer
 - 🎓 &nbsp; Student at the Apple Developer Academy in Naples
