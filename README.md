@@ -1,4 +1,4 @@
-### Hello everyone 👋, my name is Mattia and I'm 22 years old
+### Hello there, I'm Mattia 👋
 
 - 💻 &nbsp; I'm an Android Engineer
 - 🎓 &nbsp; Student at the Apple Developer Academy in Naples
